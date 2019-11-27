@@ -11,7 +11,28 @@
 #headerBottomsMS{
 	background-color: darkslategrey;
 } */
+/* #apiprojects , #nodeprojects, #databaseprojects, #gameprojectone, #skillssection */
 
+.projects{
+	height:20%;
+	display: block;
+
+}
+
+
+
+/* repository page */
+.repositoryheader{
+height: 150px;
+/* background-color: #8ebebc; */
+}
+.portfoliotop{
+	background-image:  url("/images/backgroundimagetop.png");
+
+}
+.portfoliobottom{
+ background-image:  url("/images/backgroundimagebottom.png");
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
