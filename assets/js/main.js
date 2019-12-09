@@ -119,5 +119,5 @@
 					target: $body,
 					visibleClass: 'header-visible'
 				});
-
-})(jQuery);
+			});
+// })(jQuery);
