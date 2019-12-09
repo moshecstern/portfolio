@@ -16,9 +16,11 @@
 .projects{
 	height:20%;
 	display: block;
-
+/* background-color: dimgray; */
 }
-
+.center{
+	text-align: center;
+}
 
 
 /* repository page */
