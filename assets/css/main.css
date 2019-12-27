@@ -12,10 +12,13 @@
 	background-color: darkslategrey;
 } */
 /* #apiprojects , #nodeprojects, #databaseprojects, #gameprojectone, #skillssection */
-
+img{
+	max-height: 243px;
+}
 .projects{
 	height:20%;
 	display: block;
+	/* max-height: 50%; */
 /* background-color: dimgray; */
 }
 .center{
