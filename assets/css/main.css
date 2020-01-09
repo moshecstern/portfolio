@@ -12,8 +12,11 @@
 	background-color: darkslategrey;
 } */
 /* #apiprojects , #nodeprojects, #databaseprojects, #gameprojectone, #skillssection */
-img{
-	max-height: 243px;
+#profilebigpic{
+	/* max-height: 243px; */
+	display: flex;
+    width: inherit;
+    max-height: none;
 }
 .projects{
 	height:20%;
@@ -1782,8 +1785,11 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
-			width: 100%;
+			/* display: block;
+			width: 100%; */
+			display: flex;
+			width: inherit;
+			max-height: none;
 		}
 
 		.image.avatar48 {
